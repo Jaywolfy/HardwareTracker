@@ -1,5 +1,5 @@
-Beschreibung:    Dieses Programm liest die Seriennummer sowie die Systemkonfiguration
-                     des Computers aus und speichert diese Informationen.
+Dieses Programm liest die Seriennummer sowie die Systemkonfiguration
+des Computers aus und speichert diese Informationen.
 
                      Erfasste Systeminformationen:
                          - Seriennummer des Geräts
@@ -9,4 +9,4 @@ Beschreibung:    Dieses Programm liest die Seriennummer sowie die Systemkonfigur
                         - Festplattenkapazität und Typ
 
                     Das Programm kann zur Dokumentation oder Analyse der Hardware verwendet
-                     und bei Bedarf erweitert werden.
+                    und bei Bedarf erweitert werden.
