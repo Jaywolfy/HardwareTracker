@@ -6,7 +6,7 @@ des Computers aus und speichert diese Informationen.
                          - CPU-Modell
                          - GPU-Modell
                          - RAM-Größe und Typ
-                        - Festplattenkapazität und Typ
+                         - Festplattenkapazität und Typ
 
                     Das Programm kann zur Dokumentation oder Analyse der Hardware verwendet
                     und bei Bedarf erweitert werden.
